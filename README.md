@@ -1,4 +1,4 @@
-# Docker RI Image 
+# Docker RI Images 
 
 ## Clone the Repo 
 
